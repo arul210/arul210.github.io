@@ -23,5 +23,5 @@
 <h2></h2>
 <h3>All about me<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
 <p>Enthusiastically navigating the realm of IT as a passionate Backend Developer. Almost everyone is fascinated by graphics and visuals on computers. Contrarily, the logicality and the methodology behind the screen intrigued me to dig more about computers. This thirst for learning had engulfed me in making it my career. 
-<br>
+<br><br>
 My innate inquisitiveness prompted me to pursue Master’s degree and outshine in the Computer Science field even after successful years of industry experience. Specializing in Linux, Python, Cloud and DevOps tools, I thrive on expanding the boundaries of my technical acumen. Venturing beyond the scope, I find solace in the art of words, crafting poesy, that showcase my budding talent. For me, the pursuit of personal and professional enrichment is an ongoing endeavour.</p>
